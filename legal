@@ -8,3 +8,4 @@ applicable law.
 
 Console.WriteLine("How to learn DevOps");
 This is branch -> feature/setup-configuration
+Learn how to merge in using Linux Ubuntu Server and Git.
